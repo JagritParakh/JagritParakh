@@ -8,8 +8,8 @@
        </a>
 </p>
 
-# Hey! I am Jagrit!
-# I am a 15 yr old student who likes to code as a hobby.
-# I particularly like to use JavaScript, Java, Python and Dart.
+### Hey! I am Jagrit! I am a 15 yr old student from India who likes to code for fun.
+### I particularly like to use JavaScript, Java, Python and Dart.
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagritParakh&theme=dark&layout=compact&langs_count=7" alt="Langs Used"/> </p>
