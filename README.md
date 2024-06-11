@@ -11,3 +11,4 @@
        </a>
 </p>
 <p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagritParakh&theme=dark&layout=compact&langs_count=7" alt="Langs Used"/> </p>
+[![Jagrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagritparakh)](https://github.com/anuraghazra/github-readme-stats)
