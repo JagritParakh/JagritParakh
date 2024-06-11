@@ -10,6 +10,5 @@
      <img src="https://discord.c99.nl/widget/theme-3/388949711165587458.png" alt="Jagrit#4758 ( 388949711165587458 )"/>
        </a>
 </p>
-<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagritParakh&theme=dark&layout=compact&langs_count=7" alt="Langs Used"/> </p>
-![Jagrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=jagritparakh)](https://github.com/anuraghazra/github-readme-stats)
-<p> <img src="https://github-readme-stats.vercel.app/api?username=jagritparakh" alt="Stats"/> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagritParakh&theme=synthwave&layout=compact&langs_count=7" alt="Langs Used"/> </p>
+<p> <img src="https://github-readme-stats.vercel.app/api?username=jagritparakh&theme=synthwave" alt="Stats"/> </p>
