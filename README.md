@@ -1,5 +1,4 @@
-### Hey! I am Jagrit! I am a 15 yr old student from India who likes to code for fun.
-### I am proficient in web development and app development.
+### Hey! I am Jagrit, a 16 yr old student from India making projects for fun!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="start" src="https://github-readme-stats.vercel.app/api?username=jagritparakh&show_icons=true&theme=synthwave&line_height=24&hide=stars&hide_border=true" />
