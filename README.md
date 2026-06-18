@@ -9,9 +9,6 @@
 
 
 <p>
-  <a href="https://discord.com/users/388949711165587458">
-     <img src="https://discord.c99.nl/widget/theme-3/388949711165587458.png" alt="Jagrit#4758 ( 388949711165587458 )"/>
-       </a>
 <p> <img src="https://komarev.com/ghpvc/?username=thecodersimp" alt="Profile Views" /> </p>  
   
 </p>
